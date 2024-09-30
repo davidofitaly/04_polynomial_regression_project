@@ -24,19 +24,23 @@ cd 02_polynomial_regression
 
 Run the Jupyter Notebook:
 
-jupyter notebook
 
 Open the polynomial_regression.ipynb file and run the cells to conduct the analysis.
 
 ## Project Overview
 
 Data Generation: Synthetic data is created based on a third-degree polynomial with added noise to simulate real-world conditions.
+
 Models: The project fits polynomial regression models of the following degrees:
 
 First-degree model
+
 Second-degree model
+
 Third-degree model
+
 Fourth-degree model
+
 Fifth-degree model
 
 ## Visualizations
