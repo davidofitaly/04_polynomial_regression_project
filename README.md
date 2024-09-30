@@ -48,10 +48,7 @@ It fits polynomial models of varying degrees to the data and compares their perf
 ## Visualizations
 
 - The project includes scatter plots and fitted curves to visualize the generated data and the results of the models.
-
-## Youtube
-- [Link to the project video on YouTube](https://youtu.be/x1U6PSGOaLo)
-
+  
 ## Contributors
 - [Dawid Włoch](https://github.com/davidofitaly)
 
