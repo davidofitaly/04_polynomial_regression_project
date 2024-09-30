@@ -7,7 +7,7 @@ It fits polynomial models of varying degrees to the data and compares their perf
 
 Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/02_polynomial_regression.git
+git clone https://github.com/davidofitaly/02_polynomial_regression.git
 
 ##Install
 
