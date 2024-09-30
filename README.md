@@ -43,6 +43,8 @@ Fourth-degree model
 
 Fifth-degree model
 
+Each model is analyzed for its fit to the data and evaluated using appropriate metrics.
+
 ## Visualizations
 
 The project includes scatter plots and fitted curves to visualize the generated data and the results of the models.
