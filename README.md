@@ -1,37 +1,37 @@
 # Polynomial Regression Project
 
-  This project demonstrates polynomial regression using synthetic data generated with NumPy. 
+- This project demonstrates polynomial regression using synthetic data generated with NumPy. 
 It fits polynomial models of varying degrees to the data and compares their performance metrics.
 
 ## Clone
 
-Clone the repository to your local machine:
+- Clone the repository to your local machine:
 
-git clone https://github.com/davidofitaly/02_polynomial_regression.git
+- git clone https://github.com/davidofitaly/02_polynomial_regression.git
 
 ## Install
 
-Install the required dependencies using pip:
+- Install the required dependencies using pip:
 
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## Usage
 
-Navigate to the project directory:
+- Navigate to the project directory:
 
-cd 02_polynomial_regression
+- cd 02_polynomial_regression
 
-Run the Jupyter Notebook:
+- Run the Jupyter Notebook:
 
 
-Open the polynomial_regression.ipynb file and run the cells to conduct the analysis.
+- Open the polynomial_regression.ipynb file and run the cells to conduct the analysis.
 
 ## Project Overview
 
-Data Generation: Synthetic data is created based on a third-degree polynomial with added noise to simulate real-world conditions.
+- Data Generation: Synthetic data is created based on a third-degree polynomial with added noise to simulate real-world conditions.
 
-Models: The project fits polynomial regression models of the following degrees:
+- Models: The project fits polynomial regression models of the following degrees:
 
 - First-degree model
 
@@ -43,7 +43,7 @@ Models: The project fits polynomial regression models of the following degrees:
 
 - Fifth-degree model
 
-Each model is analyzed for its fit to the data and evaluated using appropriate metrics.
+- Each model is analyzed for its fit to the data and evaluated using appropriate metrics.
 
 ## Visualizations
 
